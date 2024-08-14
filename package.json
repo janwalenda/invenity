@@ -45,5 +45,16 @@
     "vue": "^3.3.4",
     "vue-router": "^4.2.4",
     "vue-tsc": "^2.0.0"
+  },
+  "dependencies": {
+    "@strapi/strapi": "4.25.7",
+    "@strapi/plugin-users-permissions": "4.25.7",
+    "@strapi/plugin-i18n": "4.25.7",
+    "@strapi/plugin-cloud": "4.25.7",
+    "pg": "8.8.0",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "react-router-dom": "5.3.4",
+    "styled-components": "5.3.3"
   }
 }
